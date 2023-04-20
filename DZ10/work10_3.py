@@ -9,3 +9,5 @@ for word in words:
         print(f"{word} - Можно записать в байтовом формате")
     except UnicodeEncodeError:
         print(f"{word}  - невозможно записать в байтовом формате")
+
+        
