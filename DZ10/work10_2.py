@@ -11,3 +11,6 @@ for word in str:
     print(f"\tТип: {type(byte_word)}")
     print(f"\tСодержимое: {byte_word}")
     print(f"\tДлина: {len(byte_word)}")
+
+    
+    

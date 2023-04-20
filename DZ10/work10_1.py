@@ -16,5 +16,3 @@ for word in strs:
             unicode_word+= "\\u" + str(hex(ord(letter)))[2:]
         print(f'{type(unicode_word)},содержимое: {unicode_word}')
 
-
-
